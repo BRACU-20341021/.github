@@ -1,1 +1,1 @@
-# .github
+# BRAC University
